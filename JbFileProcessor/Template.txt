@@ -1,0 +1,6 @@
+Hello {{Name}},
+
+Thank you for your patience. We have received your request and will be in touch with you shortly.
+
+{{Header}}
+{{Content}}
